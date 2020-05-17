@@ -14,7 +14,7 @@ create_container()
     -p 8022:22 \
     -v /home/config:/home/config \
     -v /home/logs:/home/logs \
-    -v /home/website:/home/website \
+    -v /home/default:/home/default \
     $1
 }
 

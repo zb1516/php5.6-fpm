@@ -1,6 +1,6 @@
 #!/bin/bash
 
-WEBSITE80_PATH="/home/website/default"
+WEBSITE80_PATH="/home/default"
      LOGS_PATH="/home/logs"
      CONF_PATH="/home/config"
      SSH_PATH="/root/.ssh"
